@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HokkOS/.github/main/profile/banner.png" alt="HookOS — Markets are now software" width="100%"/>
+  <img src="https://i.ibb.co/0ysk5hRC/Hook-OS-X-Banner-1.png" alt="HookOS — Markets are now software" width="100%"/>
 </p>
 
 <p align="center">
