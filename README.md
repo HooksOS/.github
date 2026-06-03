@@ -9,6 +9,7 @@
   <a href="https://dev.hookos.fun"><img src="https://img.shields.io/badge/Dev_Portal-Build-c66be0?style=for-the-badge&labelColor=0a0b0e" alt="Dev"/></a>
   <a href="https://x.com/hookosfun"><img src="https://img.shields.io/badge/X-@hookosfun-000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://t.me/HookOSPortal"><img src="https://img.shields.io/badge/Telegram-Join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+
 </p>
 
 ---

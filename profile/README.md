@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HokkOS/.github/main/profile/banner.svg" alt="HookOS — Markets are now software" width="100%"/>
+  <img src="https://raw.githubusercontent.com/HokkOS/.github/main/profile/banner.png" alt="HookOS — Markets are now software" width="100%"/>
 </p>
 
 <p align="center">
@@ -147,39 +147,32 @@
 
 <table>
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <a href="https://hookos.fun">
         <img src="https://img.shields.io/badge/&#x2B21;-5af787?style=for-the-badge" alt="Quest" width="50"/><br/>
         <strong>Quest / Waitlist</strong><br/>
         <sub>hookos.fun</sub>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <a href="https://app.hookos.fun">
         <img src="https://img.shields.io/badge/&#x26A1;-5af787?style=for-the-badge" alt="App" width="50"/><br/>
         <strong>Web App</strong><br/>
         <sub>app.hookos.fun</sub>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <a href="https://docs.hookos.fun">
         <img src="https://img.shields.io/badge/&#x1F4D6;-6db8e8?style=for-the-badge" alt="Docs" width="50"/><br/>
         <strong>Documentation</strong><br/>
         <sub>docs.hookos.fun</sub>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <a href="https://dev.hookos.fun">
         <img src="https://img.shields.io/badge/&#x1F6E0;-c66be0?style=for-the-badge" alt="Dev" width="50"/><br/>
         <strong>Dev Portal</strong><br/>
         <sub>dev.hookos.fun</sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://admin.hookos.fun">
-        <img src="https://img.shields.io/badge/&#x2699;-f0c14b?style=for-the-badge" alt="Admin" width="50"/><br/>
-        <strong>Admin</strong><br/>
-        <sub>admin.hookos.fun</sub>
       </a>
     </td>
   </tr>
