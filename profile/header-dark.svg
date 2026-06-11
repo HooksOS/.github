@@ -41,7 +41,7 @@
   <!-- Status -->
   <g transform="translate(40, 110)">
     <circle cx="4" cy="5" r="2.5" fill="#5af787"/>
-    <text x="14" y="8" font-family="monospace" font-size="8.5" letter-spacing="1.2" fill="#74757f">PROGRAMMABLE MARKET ENGINE · V4 HOOKS · LIVE ON 6 CHAINS</text>
+    <text x="14" y="8" font-family="monospace" font-size="8.5" letter-spacing="1.2" fill="#74757f">PROGRAMMABLE MARKET ENGINE · V4 HOOKS · LIVE ON BASE</text>
   </g>
 
   <!-- Tagline -->
@@ -51,5 +51,5 @@
 
   <!-- Bottom line -->
   <line x1="40" y1="185" x2="760" y2="185" stroke="#5af787" stroke-opacity="0.15" stroke-width="0.5"/>
-  <text x="40" y="196" font-family="monospace" font-size="7.5" letter-spacing="1" fill="#3d3e46">BASE · ETH · ARB · BNB · POLY · BLAST</text>
+  <text x="40" y="196" font-family="monospace" font-size="7.5" letter-spacing="1" fill="#3d3e46">BASE · ETH · UNICHAIN · ARB · BNB · HYPER · MEGA · INK · XLAYER</text>
 </svg>

@@ -1,21 +1,22 @@
 <p align="center">
-  <img src="https://i.ibb.co/0ysk5hRC/Hook-OS-X-Banner-1.png" alt="HookOS — Markets are now software" width="100%"/>
+  <img src="https://raw.githubusercontent.com/HooksOS/.github/main/profile/banner.png" alt="HookOS — Markets are now software" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://hookos.fun"><img src="https://img.shields.io/badge/Quest_%2F_Waitlist-hookos.fun-5af787?style=for-the-badge&labelColor=0a0b0e" alt="Waitlist"/></a>
-  <a href="https://app.hookos.fun"><img src="https://img.shields.io/badge/Web_App-app.hookos.fun-5af787?style=for-the-badge&labelColor=0a0b0e" alt="Web App"/></a>
-  <a href="https://docs.hookos.fun"><img src="https://img.shields.io/badge/Docs-docs.hookos.fun-6db8e8?style=for-the-badge&labelColor=0a0b0e" alt="Docs"/></a>
-  <a href="https://dev.hookos.fun"><img src="https://img.shields.io/badge/Dev_Portal-dev.hookos.fun-c66be0?style=for-the-badge&labelColor=0a0b0e" alt="DevPortal"/></a>
+  <a href="https://hookos.fun"><img src="https://img.shields.io/badge/hookos.fun-5af787?style=for-the-badge&labelColor=0a0b0e" alt="HookOS"/></a>
+  &nbsp;
+  <a href="https://x.com/hookosfun"><img src="https://img.shields.io/badge/@hookosfun-000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  &nbsp;
+  <a href="https://t.me/hookos_alpha"><img src="https://img.shields.io/badge/@hookos__alpha-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
 <br/>
 
-<h3 align="center">The programmable market engine built on Uniswap v4 hooks.</h3>
+<h3 align="center">Three primitives. Infinite markets.</h3>
 
 <p align="center">
-  Launch tokens with custom liquidity logic. Plug in community-built hooks.<br/>
-  Ship markets that fight back against MEV, bots, and dumpers.
+  The programmable market engine built on Uniswap v4 hooks.<br/>
+  Launch tokens with custom liquidity logic. Compose markets like Lego.
 </p>
 
 <br/>
@@ -26,7 +27,7 @@
 
 ## What is HookOS?
 
-**HookOS** is a next-generation EVM launchpad powered by programmable AMM hooks (Uniswap v4 / PancakeSwap v4 architecture). It turns token launches into fully composable market systems.
+**HookOS** is a programmable market engine powered by AMM hooks (Uniswap v4 architecture). It turns token launches into fully composable market systems — protection, rewards, PvP, AI-tuned fees — all running as on-chain hook contracts.
 
 > *"Stop launching tokens. Start launching markets."*
 
@@ -38,41 +39,37 @@
   <tr>
     <td width="50%" valign="top">
       <h3>&#x2B21; Hook Marketplace</h3>
-      <p>An app store for market behavior. Browse, install, and compose hooks that intercept swaps and liquidity events — anti-bot taxes, MEV shields, reward distributions, PvP wagers, AI-tuned fees.</p>
-      <ul>
-        <li><strong>8,400+</strong> hooks deployed</li>
-        <li><strong>418</strong> audited</li>
-        <li><strong>8</strong> categories</li>
-      </ul>
+      <p>An app store for market behavior. Browse, install, and compose hooks that intercept swaps and liquidity events — MEV shields, reflexive burns, PvP wagers, AI-tuned fees.</p>
+      <p><a href="https://hookos.fun/atlas/hooks">Browse hooks &#x2192;</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>&#x26A1; Token Launch Wizard</h3>
-      <p>Deploy in under 60 seconds. 6-step guided flow: identity, supply, liquidity, hook selection, protection settings, and review. Custom bonding curves and fee routing included.</p>
-      <ul>
-        <li><strong>142,800</strong> tokens launched</li>
-        <li><strong>3</strong> bonding curve types</li>
-        <li><strong>6</strong> chains supported</li>
-      </ul>
+      <h3>&#x26A1; Token Launch</h3>
+      <p>Deploy in under 60 seconds. Guided flow: identity, supply, liquidity, hook selection, protection settings, and review. Custom bonding curves and fee routing included.</p>
+      <p><a href="https://hookos.fun/atlas/launch">Launch a token &#x2192;</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>&#x1F916; AI Studio (Synth-1)</h3>
-      <p>Describe market behavior in plain English. Synth-1 generates audited Solidity hooks, simulates outcomes against 30 days of real market data, and deploys.</p>
+      <h3>&#x1F916; AI Hook Studio</h3>
+      <p>Describe market behavior in plain English. The AI generates audited Solidity hooks, simulates outcomes against real market data, and deploys.</p>
+      <p><a href="https://hookos.fun/atlas/builder">Open builder &#x2192;</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>&#x2694;&#xFE0F; PvP Arena</h3>
       <p>Token battles, clan systems, wager hooks. Holders bet on price direction — losers' stakes paid to winners. Built-in leaderboards and seasonal tournaments.</p>
+      <p><a href="https://hookos.fun/atlas/arena">Enter arena &#x2192;</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>&#x1F4F1; TikTok-Style Feed</h3>
-      <p>Full-bleed, swipeable token discovery. Real-time prices, charts, and one-tap trading. Navigate with gestures, scroll, or vim keys.</p>
+      <h3>&#x1F5FA;&#xFE0F; Market Map</h3>
+      <p>Force-directed token graph visualization. Nodes sized by market cap, pulse rings for volume, dashed threads for shared hooks. See the market as a living network.</p>
+      <p><a href="https://hookos.fun/atlas/map">View map &#x2192;</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>&#x1F4CA; Analytics Terminal</h3>
-      <p>Bloomberg-style analytics for DeFi. Candle charts, order books, liquidity heatmaps, wallet flows, and AI-powered market insights.</p>
+      <h3>&#x1F396;&#xFE0F; Battle Pass</h3>
+      <p>Season 1 is live. 50 tiers of XP-based progression. Complete daily quests, earn streaks, unlock rewards. Level up by launching, trading, and building hooks.</p>
+      <p><a href="https://hookos.fun/atlas/battlepass">View battle pass &#x2192;</a></p>
     </td>
   </tr>
 </table>
@@ -83,7 +80,7 @@
 
 | Category | Description | Example |
 |:---------|:-----------|:--------|
-| **Protection** | MEV shields, sniper cages, whale cooldowns | MEV Shield v2, Sniper Cage |
+| **Protection** | MEV shields, sniper cages, whale cooldowns | MEV Shield, Sniper Cage |
 | **Reward** | Burns, reflections, loyalty multipliers | Reflexive Burn, Loyalty Multiplier |
 | **PvP** | Wagers, raids, clan tournaments | PvP Wager |
 | **AI** | ML-driven fee tuning, dynamic curves | AI Volatility Tax |
@@ -94,35 +91,79 @@
 
 <br/>
 
-## Protocol Stats
+## Supported Chains
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TVL-$2.18B-5af787?style=flat-square&labelColor=14151a" alt="TVL"/>
+  <img src="https://img.shields.io/badge/Base-LIVE-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" alt="Base — Live"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethereum-SOON-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Hooks_Deployed-8,421-5af787?style=flat-square&labelColor=14151a" alt="Hooks"/>
+  <img src="https://img.shields.io/badge/Unichain-SOON-FF007A?style=flat-square&logoColor=white" alt="Unichain"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Tokens_Launched-142,800-5af787?style=flat-square&labelColor=14151a" alt="Tokens"/>
+  <img src="https://img.shields.io/badge/Arbitrum-SOON-28A0F0?style=flat-square&logo=arbitrum&logoColor=white" alt="Arbitrum"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Creator_Earnings-$48.2M-f0c14b?style=flat-square&labelColor=14151a" alt="Creator Earnings"/>
+  <img src="https://img.shields.io/badge/BNB_Chain-SOON-F0B90B?style=flat-square&logo=binance&logoColor=black" alt="BNB Chain"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/HyperEVM-SOON-5af787?style=flat-square&logoColor=black" alt="HyperEVM"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/MegaETH-SOON-000?style=flat-square&logoColor=white" alt="MegaETH"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Ink-SOON-7B3FE4?style=flat-square&logoColor=white" alt="Ink"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/X_Layer-SOON-000?style=flat-square&logoColor=white" alt="X Layer"/>
 </p>
 
 <br/>
 
-## Supported Chains
+## Quick Links
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" alt="Base"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Arbitrum-28A0F0?style=for-the-badge&logo=arbitrum&logoColor=white" alt="Arbitrum"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/BNB_Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=black" alt="BNB"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Blast-FCFC03?style=for-the-badge&logoColor=black" alt="Blast"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="16%">
+      <a href="https://hookos.fun/atlas/launch">
+        <img src="https://img.shields.io/badge/&#x2B21;-5af787?style=for-the-badge" alt="Launch" width="50"/><br/>
+        <strong>Launch</strong><br/>
+        <sub>Deploy a token</sub>
+      </a>
+    </td>
+    <td align="center" width="16%">
+      <a href="https://hookos.fun/atlas/hooks">
+        <img src="https://img.shields.io/badge/&#x26A1;-5af787?style=for-the-badge" alt="Hooks" width="50"/><br/>
+        <strong>Hooks</strong><br/>
+        <sub>Marketplace</sub>
+      </a>
+    </td>
+    <td align="center" width="16%">
+      <a href="https://hookos.fun/atlas/arena">
+        <img src="https://img.shields.io/badge/&#x2694;&#xFE0F;-5af787?style=for-the-badge" alt="Arena" width="50"/><br/>
+        <strong>Arena</strong><br/>
+        <sub>PvP battles</sub>
+      </a>
+    </td>
+    <td align="center" width="16%">
+      <a href="https://hookos.fun/atlas/map">
+        <img src="https://img.shields.io/badge/&#x1F5FA;&#xFE0F;-5af787?style=for-the-badge" alt="Map" width="50"/><br/>
+        <strong>Map</strong><br/>
+        <sub>Token graph</sub>
+      </a>
+    </td>
+    <td align="center" width="16%">
+      <a href="https://hookos.fun/atlas/builder">
+        <img src="https://img.shields.io/badge/&#x1F916;-5af787?style=for-the-badge" alt="Builder" width="50"/><br/>
+        <strong>Builder</strong><br/>
+        <sub>AI studio</sub>
+      </a>
+    </td>
+    <td align="center" width="16%">
+      <a href="https://hookos.fun/atlas/battlepass">
+        <img src="https://img.shields.io/badge/&#x1F396;&#xFE0F;-5af787?style=for-the-badge" alt="Pass" width="50"/><br/>
+        <strong>Battle Pass</strong><br/>
+        <sub>Season 1</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -143,62 +184,6 @@
 
 <br/>
 
-## Quick Links
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://hookos.fun">
-        <img src="https://img.shields.io/badge/&#x2B21;-5af787?style=for-the-badge" alt="Quest" width="50"/><br/>
-        <strong>Quest / Waitlist</strong><br/>
-        <sub>hookos.fun</sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://app.hookos.fun">
-        <img src="https://img.shields.io/badge/&#x26A1;-5af787?style=for-the-badge" alt="App" width="50"/><br/>
-        <strong>Web App</strong><br/>
-        <sub>app.hookos.fun</sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://docs.hookos.fun">
-        <img src="https://img.shields.io/badge/&#x1F4D6;-6db8e8?style=for-the-badge" alt="Docs" width="50"/><br/>
-        <strong>Documentation</strong><br/>
-        <sub>docs.hookos.fun</sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://dev.hookos.fun">
-        <img src="https://img.shields.io/badge/&#x1F6E0;-c66be0?style=for-the-badge" alt="Dev" width="50"/><br/>
-        <strong>Dev Portal</strong><br/>
-        <sub>dev.hookos.fun</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## Roadmap
-
-| Quarter | Milestone | Status |
-|:--------|:----------|:-------|
-| **Q1 '26** | Mainnet v4 — Hook marketplace, AI studio, Base + Eth mainnet | Shipped |
-| **Q2 '26** | PvP Arena — Token battles, clan systems, wager hooks | Shipped |
-| **Q3 '26** | Mobile Native — iOS + Android with full gesture feed | Live |
-| **Q4 '26** | Cross-Chain — Single hook executes on 6 chains simultaneously | Next |
-
-<br/>
-
-## Creator Economy
-
-Every hook generates revenue every time it fires. Top creators earn **$50K-$1M/mo**. Royalties stream on-chain in real time.
-
-**$48.2M** paid to builders since launch.
-
-<br/>
-
 ## Security
 
 Audited by **Spearbit**, **Cantina**, and **Code4rena**. All marketplace hooks can be independently audited and verified.
@@ -208,9 +193,9 @@ Audited by **Spearbit**, **Cantina**, and **Code4rena**. All marketplace hooks c
 ## Community
 
 <p align="center">
-  <a href="https://x.com/hookosfun"><img src="https://img.shields.io/badge/X_%2F_Twitter-@hookosfun-000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://x.com/hookosfun"><img src="https://img.shields.io/badge/X-@hookosfun-000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   &nbsp;
-  <a href="https://t.me/HookOSPortal"><img src="https://img.shields.io/badge/Telegram-HookOSPortal-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://t.me/hookos_alpha"><img src="https://img.shields.io/badge/Telegram-@hookos__alpha-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
 ---

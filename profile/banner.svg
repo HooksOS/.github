@@ -117,7 +117,7 @@
     <rect width="210" height="24" rx="12" fill="white" fill-opacity="0.03" stroke="white" stroke-opacity="0.08" stroke-width="0.8"/>
     <circle cx="14" cy="12" r="3" fill="#5af787"/>
     <circle cx="14" cy="12" r="5" fill="none" stroke="#5af787" stroke-opacity="0.3" stroke-width="0.8"/>
-    <text x="26" y="16" font-family="'Courier New', monospace" font-size="9" letter-spacing="1.5" fill="#74757f">V4 HOOKS · LIVE ON 6 CHAINS</text>
+    <text x="26" y="16" font-family="'Courier New', monospace" font-size="9" letter-spacing="1.5" fill="#74757f">V4 HOOKS · LIVE ON BASE</text>
   </g>
 
   <!-- Tagline -->
@@ -131,6 +131,6 @@
 
   <!-- Chain badges bottom left -->
   <g transform="translate(80, 372)" font-family="'Courier New', monospace" font-size="8" letter-spacing="1.5" fill="#3d3e46">
-    <text>BASE · ETH · ARB · BNB · POLY · BLAST</text>
+    <text>BASE · ETH · UNICHAIN · ARB · BNB · HYPER · MEGA · INK · XLAYER</text>
   </g>
 </svg>
