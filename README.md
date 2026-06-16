@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HokkOS/.github/main/profile/header-dark.svg" alt="HookOS" width="100%"/>
+  <img src="https://raw.githubusercontent.com/HooksOS/.github/main/profile/header-dark.svg" alt="HookOS" width="100%"/>
 </p>
 
 <p align="center">
