@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HooksOS/.github/main/profile/banner.png" alt="HookOS — Markets are now software" width="100%"/>
+  <img src="https://raw.githubusercontent.com/HokkOS/.github/main/profile/banner.png" alt="HookOS — Markets are now software" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://hookos.fun"><img src="https://img.shields.io/badge/hookos.fun-5af787?style=for-the-badge&labelColor=0a0b0e" alt="HookOS"/></a>
+  <a href="https://hookos.fun/"><img src="https://img.shields.io/badge/hookos.fun-5af787?style=for-the-badge&labelColor=0a0b0e" alt="HookOS"/></a>
   &nbsp;
-  <a href="https://x.com/hookosfun"><img src="https://img.shields.io/badge/@hookosfun-000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://link3.to/hookos"><img src="https://img.shields.io/badge/link3.to%2Fhookos-c66be0?style=for-the-badge&labelColor=0a0b0e" alt="Link3"/></a>
   &nbsp;
-  <a href="https://t.me/hookos_alpha"><img src="https://img.shields.io/badge/@hookos__alpha-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://docs.hookos.fun/"><img src="https://img.shields.io/badge/docs.hookos.fun-6db8e8?style=for-the-badge&labelColor=0a0b0e" alt="Docs"/></a>
 </p>
 
 <br/>
